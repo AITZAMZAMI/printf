@@ -41,8 +41,8 @@
 8. Sarcasm is lost in print:<br>
    Handle the following length modifiers for non-custom conversion specifiers:
    - `l`
-   - `h`<br><br>
-   Conversion specifiers to handle: `d`, `i`, `u`, `o`, `x`, `X`                                   
+   - `h`<be>
+Conversion specifiers to handle: `d`, `i`, `u`, `o`, `x`, `X`                                   
 
 9. Print some money and give it to us for the rain forests:<br>
 Handle the field width for non-custom conversion specifiers.
